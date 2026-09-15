@@ -1,1 +1,1 @@
-Sitemap: https://github.com/JGIBristol/data-science-handbook/sitemap.xml
+Sitemap: https://Bristol-REG.github.io/handbook/sitemap.xml
