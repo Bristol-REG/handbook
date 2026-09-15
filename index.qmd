@@ -1,5 +1,5 @@
 ---
-title: Welcome to the JGI Data Science Handbook
+title: Welcome to the Research Engineering Handbook
 ---
 
 ## Purpose of the handbook

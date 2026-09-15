@@ -21,7 +21,7 @@ For collaborative data science work, we recommend committing frequently and foll
 
 ## GitHub
 
-The JGI has an [GitHub organisation](https://github.com/JGIBristol) that you can use to create collaborative repositories.
+REG has a [GitHub organisation](https://github.com/Bristol-REG) that you can use to create collaborative repositories.
 
 You can get access from one of the other data scientists in the team.
 Whilst at the University you can also access [additional education benefits](https://education.github.com/) on GitHub.

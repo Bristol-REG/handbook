@@ -5,7 +5,7 @@ order: 40
 
 ## SharePoint and OneDrive
 
-Use the [JGI SharePoint](https://uob.sharepoint.com/teams/grp-jeangoldinginstituteteam/Shared Documents/Forms/All.aspx) for most documents.
+Use the [REG SharePoint](https://uob.sharepoint.com/teams/grp-ResearchEngineering/Shared Documents/Forms/All.aspx) for most documents.
 
 Use your University [OneDrive](https://uob-my.sharepoint.com/) for private documents and as a personal backup.
 
@@ -18,7 +18,7 @@ You can also sync entire SharePoint libraries to your device, but this is often 
 
 ### Useful SharePoint locations
 
-#### [Projects](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared Documents/Projects)
+#### [Projects](https://uob.sharepoint.com/:f:/r/teams/grp-ResearchEngineering/Shared Documents/Projects)
 
 For **data science projects** that are not large or long-term enough to have their own dedicated folder or SharePoint team.
 
