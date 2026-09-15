@@ -20,12 +20,6 @@ website:
         href: "https://uob.sharepoint.com/teams/grp-ResearchEngineering/Shared%20Documents/"
       - icon: github
         href: "https://github.com/Bristol-REG"
-      - icon: twitter
-        href: "https://twitter.com/jgibristol"
-      - icon: youtube
-        href: "https://www.youtube.com/@jgibristol"
-      - icon: linkedin
-        href: "https://www.linkedin.com/showcase/jean-golding-institute-showcase/"
 
 format:
   html:
