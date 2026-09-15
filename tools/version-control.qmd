@@ -16,14 +16,14 @@ This includes whether the repo needs to be private (at least to begin with) and 
 Use [Git](https://git-scm.com/) to version control to track and manage changes to code.
 
 ::: {.callout-tip}
-For collaborative data science work, we recommend committing frequently and following the principles of [trunk-based development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development).
+For collaborative work, we recommend committing frequently and following the principles of [trunk-based development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development).
 :::
 
 ## GitHub
 
 REG has a [GitHub organisation](https://github.com/Bristol-REG) that you can use to create collaborative repositories.
 
-You can get access from one of the other data scientists in the team.
+You can request access by contacting us at [jgi-reseng@bristol.ac.uk](jgi-reseng@bristol.ac.uk).
 Whilst at the University you can also access [additional education benefits](https://education.github.com/) on GitHub.
 
 ::: {.callout-note}
@@ -32,7 +32,7 @@ Whilst at the University you can also access [additional education benefits](htt
 Using an organisation repo is recommended for larger or long-running projects.
 This is helpful for continuity if there is a change the data scientist working on the project.
 
-For smaller projects or Ask-JGI work, a repo under your personal profile is fine.
+For smaller projects, a repo under your personal profile is fine.
 :::
 
 ## Data

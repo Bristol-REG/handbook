@@ -12,7 +12,7 @@ You must not transfer data onto personal devices or third party cloud services, 
 ## Laptop
 
 Your laptop will be supplied by the University.
-We recommend requesting a Windows or Max device, as this allows you to use desktop versions of the Office 365 apps (especially Teams -- which we use daily).
+We recommend requesting a Windows or Max device, as this allows you to use desktop versions of the Office 365 apps.
 
 We recommend using your local machine for small projects or those where you'd like to use other software locally without context switching.
 For development we recommend using a Unix-like environment. On Windows, we recommend using [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/).
@@ -28,25 +28,11 @@ You can add SharePoint _shortcuts_ to your OneDrive, meaning those folders get s
 Or you can sync entire SharePoint libraries, but this is often too much for the OneDrive sync client to handle!
 :::
 
-## JGI server
-
-We run our own server (hostname: `IT160062.users.bris.ac.uk`) running Ubuntu.
-It has:
-
-- 12 cores (24 threads),
-- 256 GB of memory,
-- 10 GB NVIDIA graphics memory (for deep learning experiments),
-- 4 TB of data storage.
-
-Resources are shared between all JGI data scientists on an informal basis.
-
-You can get SSH access from one of the other data scientists in the team.
-
 ## High Performance Computing (HPC) clusters
 
 The University runs the [BlueCrystal 4 and BluePebble HPC clusters](https://www.bristol.ac.uk/acrc/high-performance-computing/).
 
-We have a JGI project (project code: `JGIN025022`) that you ask to join when you [apply for access to the University HPC](https://www.acrc.bris.ac.uk/login-area/apply.cgi).
+You can [apply for access to the University HPC](https://www.acrc.bris.ac.uk/login-area/apply.cgi).
 
 Once granted access, you will need to be within campus or use the [University VPN](https://uob.sharepoint.com/sites/itservices/SitePages/vpn-connect.aspx) to [connect to the HPC login servers](https://www.acrc.bris.ac.uk/protected/hpc-docs/) before you can submit jobs.
 
