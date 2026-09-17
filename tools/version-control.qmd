@@ -30,7 +30,7 @@ Whilst at the University you can also access [additional education benefits](htt
 ## Organisation or personal repo?
 
 Using an organisation repo is recommended for larger or long-running projects.
-This is helpful for continuity if there is a change the data scientist working on the project.
+This is helpful for continuity if there is a change in the staff working on the project.
 
 For smaller projects, a repo under your personal profile is fine.
 :::
