@@ -5,13 +5,16 @@ order: 40
 
 ## SharePoint
 
-The [REG SharePoint](https://uob.sharepoint.com/teams/grp-ResearchEngineering/Shared Documents/Forms/All.aspx) contains key documents and resources related to REG, including details of meetings, presentations and reading group material. Access to the REG Sharepoint can be granted if you have opportunity to contribute to this shared resource.
+The [Research Engineering Group (REG) SharePoint](https://uob.sharepoint.com/teams/grp-ResearchEngineering/Shared Documents/Forms/All.aspx) contains key documents and resources related to REG, including details of meetings, presentations and reading group material. Access to the REG Sharepoint can be granted if you have opportunity to contribute to this shared resource.
 
 ## GitHub
 
-The REG has a [GitHub organisation](https://github.com/Bristol-REG) has collective repositories which can be contributed to (including *this* repository).
+REG has a [GitHub organisation](https://github.com/Bristol-REG) with collective repositories which can be contributed to.
 
-Additional repositories include:
+Community repositories include:
+
+ - *This* repository - the [REG handbook](https://github.com/Bristol-REG/handbook) which contains resources and training material for the REG community
+
  - [REG "Today I learned" repository](https://github.com/Bristol-REG/TIL) - used to share new things within the REG group that would be useful for others (including our future self!) to see.
 
 You can request access by contacting us at [jgi-reseng@bristol.ac.uk](jgi-reseng@bristol.ac.uk).
