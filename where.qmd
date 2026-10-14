@@ -1,6 +1,6 @@
 ---
 title: Where to find/store things
-order: 40
+order: 50
 ---
 
 ## SharePoint
