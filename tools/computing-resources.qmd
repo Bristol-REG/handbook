@@ -30,7 +30,7 @@ Or you can sync entire SharePoint libraries, but this is often too much for the 
 
 ## High Performance Computing (HPC) clusters
 
-The University runs the [BlueCrystal 4 and BluePebble HPC clusters](https://www.bristol.ac.uk/acrc/high-performance-computing/).
+The University runs the [BluePebble HPC cluster](https://www.bristol.ac.uk/acrc/high-performance-computing/).
 
 You can [apply for access to the University HPC](https://www.acrc.bris.ac.uk/login-area/apply.cgi).
 
@@ -49,15 +49,12 @@ Each user gets 5 TB or stage for free.
 
 If you are a project's principal investigator, you can [apply for RDSF storage](https://www.bristol.ac.uk/acrc/research-data-storage-facility/apply-to-use-the-rdsf/) by becoming a data steward for your project.
 
-We have a JGI project (name: `JGI_Training_Project`) that we use for familiarisation and training purposes.
-You can get access from one of the other data scientists in the team.
-
 You will need to be within campus or use the [University VPN](https://uob.sharepoint.com/sites/itservices/SitePages/vpn-connect.aspx) to [connect to the RDSF](https://www.bristol.ac.uk/acrc/research-data-storage-facility/how-to-access-the-rdsf/).
-Depending on your project's settings, this storage may also be accessible from HPC and/or the JGI server.
+Depending on your project's settings, this storage may also be accessible from HPC and/or other servers.
 
 ## Other servers
 
-Some project and/or groups have access to their own server (like the JGI server) or custom VMs.
+Some project and/or groups have access to their own server or custom VMs.
 
 Depending on the specific requirements, these could be used to host:
 
