@@ -14,7 +14,7 @@ We do this by:
 
 ## Peer review process
 
-We suggest the following process for ongoing quality assurance during a project
+We suggest the following process for ongoing quality assurance during a project:
 
 [TODO]
 

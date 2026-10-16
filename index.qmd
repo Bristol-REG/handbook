@@ -17,6 +17,6 @@ We give specific examples where we're adding something that isn't said elsewhere
 
 One guide we like is the Government Analysis Function guidance on "Quality assurance of code for analysis and research" produced by the ONS, also known as [the Duck Book](https://best-practice-and-impact.github.io/qa-of-code-guidance/).
 
-The are also many templates for data science projects.
+There are also many templates for data science projects.
 One such template is the [govcookiecutter](https://best-practice-and-impact.github.io/govcookiecutter/) and [its associated blog post](https://dataingovernment.blog.gov.uk/2021/07/20/govcookiecutter-a-template-for-data-science-projects/).
 Whilst we don't specify a particular template, they all provide good inspiration.

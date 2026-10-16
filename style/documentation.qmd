@@ -6,9 +6,9 @@ order: 20
 Your project should contain both:
 
 - [project documentation](https://best-practice-and-impact.github.io/qa-of-code-guidance/project_documentation.html): as a minimum a `README.txt`,
-- [code documentation](https://best-practice-and-impact.github.io/qa-of-code-guidance/code_documentation.html): including inline comments, function, class and module docstrings,
+- [code documentation](https://best-practice-and-impact.github.io/qa-of-code-guidance/code_documentation.html): including inline comments, function, class and module docstrings.
 
-The documentation should allow another data scientist (or you in a few years time!) to understand and pick up your work.
+The documentation should allow another data scientist (or you in a few years' time!) to understand and pick up your work.
 
 It is helpful to think of documentation as falling into one of four modes:
 
@@ -20,4 +20,4 @@ It is helpful to think of documentation as falling into one of four modes:
 
 - **explanation**: _understanding-oriented_ discussion that clarifies and illuminates a particular topic.
 
-The is a great breakdown of these four areas on the [Diátaxis](https://diataxis.fr/) website.
+There is a great breakdown of these four areas on the [Diátaxis](https://diataxis.fr/) website.

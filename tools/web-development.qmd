@@ -11,7 +11,7 @@ Many frameworks are available -- we recommend:
 
 - [Quarto](https://quarto.org/) (used by this website),
 - [Jupyter Book](https://jupyterbook.org/) (used by the [Our Handbook project](https://very-good-science.github.io/our-handbook/)),
-- [MkDocs](https://www.mkdocs.org/) for simple project or documentation website.
+- [MkDocs](https://www.mkdocs.org/) for simple project or documentation websites.
 
 The native framework for GitHub Pages is [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll) and another popular tool is [Hugo](https://gohugo.io/).
 
@@ -27,7 +27,7 @@ For documentation websites, [Sphinx](https://www.sphinx-doc.org/) is commonly us
 ## Tips
 
 - If you're creating an interactive website then it is recommended you think early on about how and where your website will be hosted, and who needs to have access to it.
-  It is possible to host public-facing websites by requesting a virtual machine (VMs) from IT Services, however you will need to go through [data protection impact assessment](https://www.bristol.ac.uk/secretary/data-protection/guidance/privacy-impact-assessment/) (DPIA) and penetration testing steps before your site can be used outside the University.
+  It is possible to host public-facing websites by requesting a virtual machine (VM) from IT Services, however you will need to go through a [data protection impact assessment](https://www.bristol.ac.uk/secretary/data-protection/guidance/privacy-impact-assessment/) (DPIA) and penetration testing steps before your site can be used outside the University.
 - For more substantial websites, it is worth approaching [Research IT](https://www.bristol.ac.uk/research-it/) at the project costing stage.
   They develop websites and apps professionally and use similar tools.
 :::

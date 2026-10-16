@@ -15,12 +15,12 @@ You can use `pip` with `venv` (or a related tool) or `conda` (or a related tool)
 
 We recommend using [`mamba`](https://mamba.readthedocs.io/) (or `micromamba`) to install Python and create environments.
 This package manager is compatible with `conda` and can manage data science environments, including Python and other software.
-Anywhere you see `conda`, you can generally substitute it for `mamba` or `micromamba`.
+Anywhere you see `conda`, you can generally replace it with `mamba` or `micromamba`.
 
 You should export your environment into an `environment.yml` (or similar) file and track that using version control.
-This way, a collaborators can install the same software as you by running `conda env create -f environment.yml`.
+This way, collaborators can install the same software as you by running `conda env create -f environment.yml`.
 
-Even if you don't want to use `conda` to install software, you can use it to install specific version of Python and then use `pip` to install Python libraries.
+Even if you don't want to use `conda` to install software, you can use it to install a specific version of Python and then use `pip` to install Python libraries.
 This keeps everything in one place, and you don't need to switch to using `python -m venv`.
 
 ::: {.callout-tip}
@@ -41,7 +41,7 @@ This keeps everything in one place, and you don't need to switch to using `pytho
 We recommend creating reproducible environments using [`renv`](https://rstudio.github.io/renv/).
 See [this talk by Kevin Ushey](https://github.com/kevinushey/2020-rstudio-conf) for an introduction.
 
-`renv` uses `renv::install()` and `renv::update()` to install and update packages in an isolated, portable and reproducible way (although you can continue to use the usual install and update commands with `renv` will automatically mask).
+`renv` uses `renv::install()` and `renv::update()` to install and update packages in an isolated, portable and reproducible way (although you can continue to use the usual install and update commands which `renv` will automatically mask).
 
 RStudio gives you the option of using `renv` when you create a new project.
 

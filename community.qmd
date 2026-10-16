@@ -9,11 +9,11 @@ The [Research Engineering Group (REG) web pages](https://bristol-reg.github.io/)
 
 ## Mailing list and Slack channel
 
-For more details about joining the mailing list and accessing the #bristol-reg Slack channel please see the [Research Engineering Group contact details]( https://bristol-reg.github.io/contact.html).
+For more details about joining the mailing list and accessing the #bristol-reg Slack channel please see the [Research Engineering Group contact details](https://bristol-reg.github.io/contact.html).
 
 ## REG activities
 
-Please see the Regional Engineering Group [About Our Group page](https://bristol-reg.github.io/about.html) for more details of our activities.
+Please see the Research Engineering Group [About Our Group page](https://bristol-reg.github.io/about.html) for more details of our activities.
 
 The regular activities we run include:
 
