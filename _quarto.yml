@@ -2,30 +2,24 @@ project:
   type: website
 
 website:
-  title: JGI Data Science Handbook
+  title: Research Engineering Handbook
   navbar:
     background: primary
   sidebar:
     contents: auto
     style: docked
     # collapse-level: 1
-  repo-url: https://github.com/JGIBristol/data-science-handbook
+  repo-url: https://github.com/Bristol-REG/handbook
   repo-actions: [edit, issue]
   page-footer:
-    left: "Living document by the [Jean Golding Institute](https://www.bristol.ac.uk/golding/), [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)."
+    left: "Living document by the [Research Engineering Group](https://bristol-reg.github.io/), [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)."
     right:
       - icon: globe2
-        href: "https://www.bristol.ac.uk/golding/"
+        href: "https://bristol-reg.github.io/"
       - icon: folder
-        href: "https://uob.sharepoint.com/teams/grp-jeangoldinginstituteteam/Shared Documents/"
+        href: "https://uob.sharepoint.com/teams/grp-ResearchEngineering/Shared%20Documents/"
       - icon: github
-        href: "https://github.com/jgibristol"
-      - icon: twitter
-        href: "https://twitter.com/jgibristol"
-      - icon: youtube
-        href: "https://www.youtube.com/@jgibristol"
-      - icon: linkedin
-        href: "https://www.linkedin.com/showcase/jean-golding-institute-showcase/"
+        href: "https://github.com/Bristol-REG"
 
 format:
   html:

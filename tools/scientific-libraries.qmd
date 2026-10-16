@@ -120,13 +120,13 @@ The following libraries and tools are recommended:
 
 - Markdown documents and websites:
   `quarto`,
-  `juypterbook`
+  `jupyter-book`
 
 - Online analytical processing using SQL:
   `duckdb`
   (with `duckdb` and `jupysql` for Python integration)
 
-- Command line json processing:
+- Command line JSON processing:
   `jq`
 
 - Makefile-like pipelines:

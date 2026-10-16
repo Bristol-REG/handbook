@@ -15,12 +15,12 @@ We recommend either Python or R, although it's worth becoming at least competent
 
 ## Interpreted languages
 
-- [Python](https://www.python.org/) and [R](https://www.r-project.org/) are two of the most widely used programming language for data science.
+- [Python](https://www.python.org/) and [R](https://www.r-project.org/) are two of the most widely used programming languages for data science.
   They are easy to write, understand and have a large and well-established ecosystem for data science.
   We have found the use of R more common in statistics and Python more common in machine learning (and general purpose programming).
 
 - [MATLAB](https://www.mathworks.com/products/matlab.html) is also widely used in engineering, mathematics and the physical sciences.
-  It is commercial software, so you need a license to use it (which the University has), although this may impact how easy it will be for others to re-use the code.
+  It is commercial software, so you need a licence to use it (which the University has), although this may impact how easy it will be for others to re-use the code.
 
 - [SQL](https://en.wikipedia.org/wiki/SQL) is used for processing data in relational databases.
   Used well, these databases can produce highly-optimised queries that can handle many records.

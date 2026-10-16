@@ -19,7 +19,7 @@ This is useful not only to yourself in the future, but also to other members of 
 
 We recommend you keep both:
 
-- **personal notes** to record your thinking and what you do each day (so can go back to something, even if not making a decision at this point),
+- **personal notes** to record your thinking and what you do each day (so you can go back to something, even if not making a decision at this point),
 - **project documentation** including relevant context, decisions made and the reasons for changes. These are part of our institutional, rather than individual, memory.
 
 Project documentation includes:
@@ -55,7 +55,7 @@ Keep a record of these steps.
 
 ## Get others to cross-check
 
-Other people can provide a different perspective and can perform difference types of check.
+Other people can provide a different perspective and can perform different types of check.
 
 For example:
 
