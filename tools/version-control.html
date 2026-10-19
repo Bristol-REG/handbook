@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.10.18">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Version control – JGI Data Science Handbook</title>
+<title>Version control – Research Engineering Handbook</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -42,10 +42,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-fbac596b409d3f9271304d8dfbb61277.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-ba360788f50e71f30f427ed5944f3576.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -85,7 +85,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../index.html">
-    <span class="navbar-title">JGI Data Science Handbook</span>
+    <span class="navbar-title">Research Engineering Handbook</span>
     </a>
   </div>
         <div class="quarto-navbar-tools tools-end">
@@ -208,24 +208,18 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Writing style</span></a>
   </div>
 </li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../style/visual.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Visual style</span></a>
-  </div>
-</li>
       </ul>
   </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../where.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Where to find/store things</span></a>
+  <a href="../community.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Community</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../ways-of-working.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Ways of working</span></a>
+  <a href="../where.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Where to find/store things</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -260,7 +254,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#github" id="toc-github" class="nav-link" data-scroll-target="#github">GitHub</a></li>
   <li><a href="#data" id="toc-data" class="nav-link" data-scroll-target="#data">Data</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/JGIBristol/data-science-handbook/edit/main/tools/version-control.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/JGIBristol/data-science-handbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/Bristol-REG/handbook/edit/main/tools/version-control.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/Bristol-REG/handbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -295,12 +289,12 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="callout-body-container callout-body">
 <p>Check whether you can use cloud services like GitHub and GitLab before you upload any code.</p>
-<p>This includes whether the repo needs to be private (at least to begin with) and what the license terms need to be.</p>
+<p>This includes whether the repo needs to be private (at least to begin with) and what the licence terms need to be.</p>
 </div>
 </div>
 <section id="git" class="level2">
 <h2 class="anchored" data-anchor-id="git">Git</h2>
-<p>Use <a href="https://git-scm.com/">Git</a> to version control to track and manage changes to code.</p>
+<p>Use <a href="https://git-scm.com/">Git</a> for version control to track and manage changes to code.</p>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -311,14 +305,14 @@ Tip
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>For collaborative data science work, we recommend committing frequently and following the principles of <a href="https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development">trunk-based development</a>.</p>
+<p>For collaborative work, we recommend committing frequently and following the principles of <a href="https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development">trunk-based development</a>.</p>
 </div>
 </div>
 </section>
 <section id="github" class="level2">
 <h2 class="anchored" data-anchor-id="github">GitHub</h2>
-<p>The JGI has an <a href="https://github.com/JGIBristol">GitHub organisation</a> that you can use to create collaborative repositories.</p>
-<p>You can get access from one of the other data scientists in the team. Whilst at the University you can also access <a href="https://education.github.com/">additional education benefits</a> on GitHub.</p>
+<p>REG has a <a href="https://github.com/Bristol-REG">GitHub organisation</a> that you can use to create collaborative repositories.</p>
+<p>You can request access by contacting us at <a href="mailto:jgi-reseng@bristol.ac.uk">jgi-reseng@bristol.ac.uk</a>. Whilst at the University you can also access <a href="https://education.github.com/">additional education benefits</a> on GitHub.</p>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -329,8 +323,8 @@ Tip
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Using an organisation repo is recommended for larger or long-running projects. This is helpful for continuity if there is a change the data scientist working on the project.</p>
-<p>For smaller projects or Ask-JGI work, a repo under your personal profile is fine.</p>
+<p>Using an organisation repo is recommended for larger or long-running projects. This is helpful for continuity if there is a change in the staff working on the project.</p>
+<p>For smaller projects, a repo under your personal profile is fine.</p>
 </div>
 </div>
 </section>
@@ -747,46 +741,28 @@ Tip
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Living document by the <a href="https://www.bristol.ac.uk/golding/">Jean Golding Institute</a>, <a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</p>
+<p>Living document by the <a href="https://bristol-reg.github.io/">Research Engineering Group</a>, <a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/JGIBristol/data-science-handbook/edit/main/tools/version-control.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/JGIBristol/data-science-handbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/Bristol-REG/handbook/edit/main/tools/version-control.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/Bristol-REG/handbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
-    <a class="nav-link" href="https://www.bristol.ac.uk/golding/">
+    <a class="nav-link" href="https://bristol-reg.github.io/">
       <i class="bi bi-globe2" role="img">
 </i> 
     </a>
   </li>  
     <li class="nav-item compact">
-    <a class="nav-link" href="https://uob.sharepoint.com/teams/grp-jeangoldinginstituteteam/Shared Documents/">
+    <a class="nav-link" href="https://uob.sharepoint.com/teams/grp-ResearchEngineering/Shared%20Documents/">
       <i class="bi bi-folder" role="img">
 </i> 
     </a>
   </li>  
     <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/jgibristol">
+    <a class="nav-link" href="https://github.com/Bristol-REG">
       <i class="bi bi-github" role="img">
-</i> 
-    </a>
-  </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/jgibristol">
-      <i class="bi bi-twitter" role="img">
-</i> 
-    </a>
-  </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://www.youtube.com/@jgibristol">
-      <i class="bi bi-youtube" role="img">
-</i> 
-    </a>
-  </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://www.linkedin.com/showcase/jean-golding-institute-showcase/">
-      <i class="bi bi-linkedin" role="img">
 </i> 
     </a>
   </li>  
