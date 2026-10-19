@@ -31,7 +31,7 @@ You **must not** release code that:
 - Contains personal or protected data (these should be stored separately),
 - Relates to sensitive research that has not been published yet or could compromise the proper publication of research results,
 - Relates to intellectual property that needs protecting (for example industrial collaborations or where there are plans to commercialise the research),
-- Could compromise the security or integrity of research infrastructure (such as login details, descriptions security or anti-fraud systems, or unpublished policy).
+- Could compromise the security or integrity of research infrastructure (such as login details, descriptions of security or anti-fraud systems, or unpublished policy).
 
 ### References
 

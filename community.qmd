@@ -1,0 +1,21 @@
+---
+title: Community
+order: 40
+---
+
+## Join the Group
+
+The [Research Engineering Group (REG) web pages](https://bristol-reg.github.io/) contain key details about how to join and engage the community.
+
+## Mailing list and Slack channel
+
+For more details about joining the mailing list and accessing the #bristol-reg Slack channel please see the [Research Engineering Group contact details](https://bristol-reg.github.io/contact.html).
+
+## REG activities
+
+Please see the Research Engineering Group [About Our Group page](https://bristol-reg.github.io/about.html) for more details of our activities.
+
+The regular activities we run include:
+
+- Group meetings - every month we meet to share announcements and to allow group members to discuss and present their work and topics of interest.
+- Reading group - every month we review and discuss an article voted on by the group.

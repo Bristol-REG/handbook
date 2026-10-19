@@ -28,19 +28,19 @@ For rapidly building dashboards in Python or R, we recommend:
 
 ## Web visualisations
 
-For more complex data visualisations targetted at web pages, try the javascript library [D3](https://d3js.org/).
+For more complex data visualisations targeted at web pages, try the JavaScript library [D3](https://d3js.org/).
 
 ## No-code tools
 
-There are many tools that can be used for visualisation (and analysis) of data tat do not require code.
-Although these can be difficult to version control and may require additional software licenses, they can be much more accessible for collaborators.
+There are many tools that can be used for visualisation (and analysis) of data that do not require code.
+Although these can be difficult to version control and may require additional software licences, they can be much more accessible for collaborators.
 These might be a good fit for some projects.
 
 - [Excel](https://support.microsoft.com/en-gb/excel): useful for quickly exploring data.
   Very flexible and generally accessible to all.
   But can introduce [problems with some data types](https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates) and easy to follow bad practices.
 
-- [Power BI](https://powerbi.microsoft.com/): primary used for business analysis.
+- [Power BI](https://powerbi.microsoft.com/): primarily used for business analysis.
   Can connect to a variety of data sources inside the Microsoft 365 ecosystem.
   Can produce dashboards that can be shared securely within the University.
 
