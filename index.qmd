@@ -12,9 +12,3 @@ This handbook aims to:
 
 There are already many excellent resources both within the University and on the web, so this handbook gives a minimal overview of each area and signposts where to find out more.
 We give specific examples where we're adding something that isn't said elsewhere or where we're suggesting a common approach or 'house style' relevant to the team.
-
-## Further reading
-
-There are also many templates for data science projects.
-One such template is the [govcookiecutter](https://best-practice-and-impact.github.io/govcookiecutter/) and [its associated blog post](https://dataingovernment.blog.gov.uk/2021/07/20/govcookiecutter-a-template-for-data-science-projects/).
-Whilst we don't specify a particular template, they all provide good inspiration.

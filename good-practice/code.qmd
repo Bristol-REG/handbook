@@ -19,9 +19,9 @@ This contains recommendations on (amongst other things) naming conventions, styl
 - RStudio can reformat your R code automatically (Ctrl-Shift-A by default).
 :::
 
-## Reproducible analysis pipelines
+## Structuring analysis for reproducibility
 
-You should [structure your project](https://best-practice-and-impact.github.io/qa-of-code-guidance/project_structure.html) so that:
+When structuring an analysis pipeline, one suggestion is to [structure your project](https://best-practice-and-impact.github.io/qa-of-code-guidance/project_structure.html) so that:
 
 - raw data is read-only,
 - all your outputs are disposable,
@@ -32,3 +32,5 @@ In some situations it can be difficult to produce an _easily_ reproducible pipel
 For example when using HPC, code often needs to be run across different systems and different environments.
 This is fine -- just ensure there is enough documentation so that it is _technically possible_ for someone to reproduce your work.
 :::
+
+There are also many templates for data science projects in particular. One such template is the [govcookiecutter](https://best-practice-and-impact.github.io/govcookiecutter/) and [its associated blog post](https://dataingovernment.blog.gov.uk/2021/07/20/govcookiecutter-a-template-for-data-science-projects/).
