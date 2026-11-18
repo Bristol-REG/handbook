@@ -18,5 +18,3 @@ This can be done by:
 - Code review,
 - Ethics discussions,
 - Pair programming,
-- Internal workshops to discuss an approach,
-- Maintain a 4:1 ratio -- 80% working on projects and 20% assisting with QA on other projects.
