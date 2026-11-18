@@ -1,6 +1,6 @@
 ---
 title: Code style
-order: 10
+order: 20
 ---
 
 Follow the Duck Book guidance on:

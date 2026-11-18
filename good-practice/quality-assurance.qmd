@@ -1,6 +1,6 @@
 ---
 title: Quality assurance
-order: 60
+order: 50
 ---
 
 It should be easy to do the right thing, and easy to spot if we've done the wrong thing.

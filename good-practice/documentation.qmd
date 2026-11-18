@@ -1,6 +1,6 @@
 ---
 title: Documentation style
-order: 20
+order: 30
 ---
 
 Your project should contain both:
