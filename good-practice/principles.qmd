@@ -1,7 +1,9 @@
 ---
-title: Core principles
+title: Principles
 order: 10
 ---
+
+This is a set of recommended principles for approaching project management and tasks within this.
 
 ## Break things down into manageable chunks
 
@@ -15,7 +17,7 @@ For example:
 
 ## Keep notes and documentation
 
-This is useful not only to yourself in the future, but also to other members of the team if they take over or come back to something after a long period of time.
+This is useful not only to yourself in the future, but also to other members of your team if they take over or come back to something after a long period of time.
 
 We recommend you keep both:
 
@@ -34,7 +36,7 @@ If you've completed a quality assurance-related activity, such as peer review, t
 
 ## Use the appropriate tool for the job
 
-We prefer tools that give immediate feedback.
+Tools which provide immediate feedback can be useful for development.
 
 For example:
 
@@ -43,7 +45,7 @@ For example:
 
 ## Check things meet the required standard
 
-We design-in regular checks within our standard process.
+Designing-in regular checks within the standard process means this can be validated regularly.
 
 For example:
 
