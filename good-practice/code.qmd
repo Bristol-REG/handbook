@@ -3,7 +3,9 @@ title: Code style
 order: 20
 ---
 
-Follow the Duck Book guidance on:
+One available guide on code style is the Government Analysis Function guidance on "Quality assurance of code for analysis and research" produced by the ONS, also known as [the Duck Book](https://best-practice-and-impact.github.io/qa-of-code-guidance/){#duck-book}.
+
+Two pages which can be highlighted here are:
 
 - [modular code](https://best-practice-and-impact.github.io/qa-of-code-guidance/modular_code.html),
 - [readable code](https://best-practice-and-impact.github.io/qa-of-code-guidance/readable_code.html).
