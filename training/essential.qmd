@@ -1,0 +1,22 @@
+---
+title: Essential pathway
+order: 20
+---
+
+The essential pathway is recommended for everyone working on research technical professional projects but can be particularly useful for new starters.
+
+Starting from the [DIRECT Framework](https://directframework.com/) we have considered what skills could be minimal set of skills to develop and hone as a part of any research technical professional project.
+
+These are focussed on the following areas:
+
+ - Communication
+ - Time management
+ - Software Engineering
+ - Domain specific knowledge
+
+From the DIRECT skills framework this translates to:
+
+ - Stakeholder and user engagement
+ - Task management
+ - Code review
+ - *Something specific to the technology stack on your project*
