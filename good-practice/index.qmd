@@ -1,5 +1,5 @@
 ---
-title: Style guides
+title: Best practice
 order: 30
 listing:
   template: ../_list.ejs
