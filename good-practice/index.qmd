@@ -1,5 +1,5 @@
 ---
-title: Best practice
+title: Good practice
 order: 30
 listing:
   template: ../_list.ejs
