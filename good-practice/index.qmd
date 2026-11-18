@@ -7,3 +7,5 @@ listing:
 ---
 
 ## In this section
+
+This section includes recommended good practice for working on projects. This includes general principles of approaching coding projects, coding good practice, types of documentation, guidance around writing style and quality assurance processes.
