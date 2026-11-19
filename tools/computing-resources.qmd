@@ -15,7 +15,7 @@ Your laptop will be supplied by the University.
 If you request a Windows or Mac device, this allows you to use desktop versions of the Office 365 apps.
 
 Using your local machine for small projects (or those where you'd like to use other software locally) can allow easier working without context switching.
-For development using a Unix-like environment can often make code developmeant easier. On Windows, you can use [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/) for this.
+For development using a Unix-like environment can often make working on code easier. On Windows, you can use [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/) for this.
 
 ::: {.callout-important}
 Always make sure your data is **backed up**.

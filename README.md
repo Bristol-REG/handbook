@@ -16,7 +16,7 @@ This website is a [Quarto website](https://quarto.org/docs/websites/), hosted on
 
 ### Style guide
 
-- Aim to use a neutral tone which provides recommendations rather than requirements. Use "X is recommened" or "X might be useful", instead of over "you must do X" or "X is required".
+- Aim to use a neutral tone which provides recommendations rather than requirements. Use "X is recommend" or "X might be useful", instead of over "you must do X" or "X is required".
 
 - This handbook contains recommendations and factual information for REG group, but the content shouldn't be too opinionated where it doesn't need to be.
 
