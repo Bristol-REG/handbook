@@ -10,14 +10,14 @@ If you're starting a new project, it may be obvious which language is most suita
 For example, a researcher may already be comfortable with a particular one.
 Otherwise, it largely comes down to personal choice.
 
-We recommend either Python or R, although it's worth becoming at least competent in several languages.
+Many research projects will focus on using a specific language such as Python or R, although it's often worth becoming at least competent in several languages.
 :::
 
 ## Interpreted languages
 
 - [Python](https://www.python.org/) and [R](https://www.r-project.org/) are two of the most widely used programming languages for data science.
   They are easy to write, understand and have a large and well-established ecosystem for data science.
-  We have found the use of R more common in statistics and Python more common in machine learning (and general purpose programming).
+  R tends to be more commonly used in statistics and Python more common in machine learning (and general purpose programming).
 
 - [MATLAB](https://www.mathworks.com/products/matlab.html) is also widely used in engineering, mathematics and the physical sciences.
   It is commercial software, so you need a licence to use it (which the University has), although this may impact how easy it will be for others to re-use the code.

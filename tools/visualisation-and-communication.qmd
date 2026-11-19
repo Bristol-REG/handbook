@@ -14,14 +14,14 @@ The JGI runs:
 
 ## Communication
 
-For creating reproducible code-driven documents, we recommend:
+For creating reproducible code-driven documents, some suggestions are:
 
 - [Quarto](https://quarto.org/) (formerly RMarkdown) for Python, R or even without code (for example, this website!)
 - [JupyterLab](https://jupyter.org/) and Jupyter Notebooks for Python.
 
 ## Dashboards
 
-For rapidly building dashboards in Python or R, we recommend:
+For rapidly building dashboards in Python or R, some suggestions are:
 
 - [Streamlit](https://streamlit.io/) for Python,
 - [Shiny](https://www.rstudio.com/products/shiny/) for R. 
