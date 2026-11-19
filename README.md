@@ -16,9 +16,9 @@ This website is a [Quarto website](https://quarto.org/docs/websites/), hosted on
 
 ### Style guide
 
-- We prefer "we do X", "we recommend X" or "X might be useful", instead of over "you must do X".
+- Aim to use a neutral tone which provides recommendations rather than requirements. Use "X is recommend" or "X might be useful", instead of over "you must do X" or "X is required".
 
-- This handbook contains our recommendations and factual information for the team, but we try not to make it too opinionated where it doesn't need to be.
+- This handbook contains recommendations and factual information for REG group, but the content shouldn't be too opinionated where it doesn't need to be.
 
 - Please write Markdown with [one sentence per line](https://opensource.com/article/19/4/write-git#one-sentence-per-line), rather than using a character limit per line.
 

@@ -17,5 +17,5 @@ Community repositories include:
 
  - [REG "Today I learned" repository](https://github.com/Bristol-REG/TIL) - used to share new things within the REG group that would be useful for others (including our future selves!) to see.
 
-You can request access by contacting us at [jgi-reseng@bristol.ac.uk](mailto:jgi-reseng@bristol.ac.uk).
+You can request access by contacting [jgi-reseng@bristol.ac.uk](mailto:jgi-reseng@bristol.ac.uk).
 Whilst at the University you can also access [additional education benefits](https://education.github.com/) on GitHub.

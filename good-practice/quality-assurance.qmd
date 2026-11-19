@@ -1,0 +1,20 @@
+---
+title: Quality assurance
+order: 50
+---
+
+It should be easy to do the right thing, and easy to spot if the wrong thing has been done.
+
+This can be done by:
+
+- multiple modes of checking,
+- not leaving checking until the end,
+- when possible, discussing within a team and providing enough feedback so that you don't go down dead ends too often,
+- discussing ethics and data hazards.
+
+## QA activities
+
+- Peer review,
+- Code review,
+- Ethics discussions,
+- Pair programming,

@@ -6,7 +6,7 @@ order: 60
 ::: {.callout-tip}
 ## Related activities
 
-The JGI runs:
+The Jean Golding Institute (JGI) runs:
 
 - [Bristol DataViz Group](https://dataviz.blogs.bristol.ac.uk/): a group for individuals interested in data visualisation, where members can skill-share, discuss data visualisation topics and highlight great examples.
 - [Beauty of Data Competition](https://www.bristol.ac.uk/golding/get-involved/competitions/beauty-of-data-competition/): a competition to find the best data visualisations from University of Bristol research.
@@ -14,14 +14,14 @@ The JGI runs:
 
 ## Communication
 
-For creating reproducible code-driven documents, we recommend:
+For creating reproducible code-driven documents, some suggestions are:
 
 - [Quarto](https://quarto.org/) (formerly RMarkdown) for Python, R or even without code (for example, this website!)
 - [JupyterLab](https://jupyter.org/) and Jupyter Notebooks for Python.
 
 ## Dashboards
 
-For rapidly building dashboards in Python or R, we recommend:
+For rapidly building dashboards in Python or R, some suggestions are:
 
 - [Streamlit](https://streamlit.io/) for Python,
 - [Shiny](https://www.rstudio.com/products/shiny/) for R. 
@@ -46,4 +46,4 @@ These might be a good fit for some projects.
 
 - [Tableau](https://www.tableau.com/): similar to Power BI.
   Popular in industry.
-  We often have a training session on Tableau during Data Week.
+  The JGI often has a training session on Tableau during Data Week.

@@ -1,6 +1,6 @@
 ---
 title: Writing style
-order: 30
+order: 40
 ---
 
 The University [writing guidance](https://www.bristol.ac.uk/style-guides/writing/) contains:

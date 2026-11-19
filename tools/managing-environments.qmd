@@ -3,7 +3,7 @@ title: Managing environments
 order: 50
 ---
 
-We recommend keeping track of the exact versions of the software libraries you are using.
+It is often important for reproduciblity to keep track of the exact versions of the software libraries you are using.
 
 Generally this is done by creating a reproducible **environment** (also called a _virtual environment_).
 
@@ -13,7 +13,7 @@ Some tools also allow you to use different versions of Python or R for different
 
 You can use `pip` with `venv` (or a related tool) or `conda` (or a related tool) to create an environment and install specific versions of Python libraries.
 
-We recommend using [`mamba`](https://mamba.readthedocs.io/) (or `micromamba`) to install Python and create environments.
+One example of a modern tool to install Python and create environments is [`mamba`](https://mamba.readthedocs.io/) (or `micromamba`).
 This package manager is compatible with `conda` and can manage data science environments, including Python and other software.
 Anywhere you see `conda`, you can generally replace it with `mamba` or `micromamba`.
 
@@ -38,7 +38,7 @@ This keeps everything in one place, and you don't need to switch to using `pytho
 
 ## R
 
-We recommend creating reproducible environments using [`renv`](https://rstudio.github.io/renv/).
+One tool to create reproducible environments is [`renv`](https://rstudio.github.io/renv/).
 See [this talk by Kevin Ushey](https://github.com/kevinushey/2020-rstudio-conf) for an introduction.
 
 `renv` uses `renv::install()` and `renv::update()` to install and update packages in an isolated, portable and reproducible way (although you can continue to use the usual install and update commands which `renv` will automatically mask).
@@ -46,7 +46,7 @@ See [this talk by Kevin Ushey](https://github.com/kevinushey/2020-rstudio-conf) 
 RStudio gives you the option of using `renv` when you create a new project.
 
 ::: {.callout-tip}
-Although it is common practice, we recommend you **avoid** installing and updating packages globally using `install.packages()` and `update.packages()`, unless you are using `renv`.
+Although it is common practice, it may be preferable to **avoid** installing and updating packages globally using `install.packages()` and `update.packages()`, unless you are using `renv`.
 
 If you use the global versions of packages, then all your projects will need to use the same versions of every library.
 If you update a library, you may have to change code in all of your projects or you might get inconsistent analyses.

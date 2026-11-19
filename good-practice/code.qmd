@@ -1,0 +1,36 @@
+---
+title: Code style
+order: 20
+---
+
+One available guide on code style is the Government Analysis Function guidance on "Quality assurance of code for analysis and research" produced by the ONS, also known as [the Duck Book](https://best-practice-and-impact.github.io/qa-of-code-guidance/){#duck-book}.
+
+Two pages which can be highlighted here are:
+
+- [modular code](https://best-practice-and-impact.github.io/qa-of-code-guidance/modular_code.html),
+- [readable code](https://best-practice-and-impact.github.io/qa-of-code-guidance/readable_code.html).
+
+This contains recommendations on (amongst other things) naming conventions, style and formatting.
+
+::: {.callout-tip}
+## Tips
+
+- [Black](https://github.com/psf/black) is a tool which can be used to apply [PEP-8](https://peps.python.org/pep-0008/) formatting to Python code.
+- RStudio can reformat your R code automatically (Ctrl-Shift-A by default).
+:::
+
+## Structuring analysis for reproducibility
+
+When structuring an analysis pipeline, one suggestion is to [structure your project](https://best-practice-and-impact.github.io/qa-of-code-guidance/project_structure.html) so that:
+
+- raw data is read-only,
+- all your outputs are disposable,
+- (if possible) a small number of commands can re-run all your analysis and reproduce all the outputs from scratch.
+
+::: {.callout-tip}
+In some situations it can be difficult to produce an _easily_ reproducible pipeline.
+For example when using HPC, code often needs to be run across different systems and different environments.
+This is fine -- just ensure there is enough documentation so that it is _technically possible_ for someone to reproduce your work.
+:::
+
+There are also many templates for data science projects in particular. One such template is the [govcookiecutter](https://best-practice-and-impact.github.io/govcookiecutter/) and [its associated blog post](https://dataingovernment.blog.gov.uk/2021/07/20/govcookiecutter-a-template-for-data-science-projects/).

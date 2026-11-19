@@ -11,12 +11,4 @@ This handbook aims to:
 - and commit us to producing **quality outputs** in a positive working environment.
 
 There are already many excellent resources both within the University and on the web, so this handbook gives a minimal overview of each area and signposts where to find out more.
-We give specific examples where we're adding something that isn't said elsewhere or where we're suggesting a common approach or 'house style' relevant to the team.
-
-## Further reading
-
-One guide we like is the Government Analysis Function guidance on "Quality assurance of code for analysis and research" produced by the ONS, also known as [the Duck Book](https://best-practice-and-impact.github.io/qa-of-code-guidance/).
-
-There are also many templates for data science projects.
-One such template is the [govcookiecutter](https://best-practice-and-impact.github.io/govcookiecutter/) and [its associated blog post](https://dataingovernment.blog.gov.uk/2021/07/20/govcookiecutter-a-template-for-data-science-projects/).
-Whilst we don't specify a particular template, they all provide good inspiration.
+Specific examples are often given where they're adding something which isn't said elsewhere or to provide something concrete to review. Almost all examples are recommendations or suggestions rather than known requirements for particular tools or good practice.
