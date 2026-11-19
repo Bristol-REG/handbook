@@ -8,7 +8,7 @@ Within a project, it is recommended to ensure this has:
 - [project documentation](https://best-practice-and-impact.github.io/qa-of-code-guidance/project_documentation.html): as a minimum a `README.txt`,
 - [code documentation](https://best-practice-and-impact.github.io/qa-of-code-guidance/code_documentation.html): including inline comments, function, class and module docstrings.
 
-These links are to the [Duck Book](code.qmd#duck-book) which is introduced in the Code style section.
+These links are to the Duck Book which is introduced in the [Code style](code.qmd#duck-book) section.
 
 The documentation should allow another data scientist (or you in a few years' time!) to understand and pick up your work.
 
