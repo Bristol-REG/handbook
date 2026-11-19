@@ -19,7 +19,7 @@ For example:
 
 This is useful not only to yourself in the future, but also to other members of any team you're working within if they take over or come back to something after a long period of time.
 
-We recommend you keep both:
+One recommendation is that you keep both:
 
 - **personal notes** to record your thinking and what you do each day (so you can go back to something, even if not making a decision at this point),
 - **project documentation** including relevant context, decisions made and the reasons for changes. These are part of your institutional, rather than individual, memory.

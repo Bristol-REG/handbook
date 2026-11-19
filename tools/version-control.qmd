@@ -16,14 +16,14 @@ This includes whether the repo needs to be private (at least to begin with) and 
 Use [Git](https://git-scm.com/) for version control to track and manage changes to code.
 
 ::: {.callout-tip}
-For collaborative work, we recommend committing frequently and following the principles of [trunk-based development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development).
+For collaborative work, committing frequently and following the principles of [trunk-based development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development) can help ensure this minimises code divergance.
 :::
 
 ## GitHub
 
 REG has a [GitHub organisation](https://github.com/Bristol-REG) that you can use to create collaborative repositories.
 
-You can request access by contacting us at [jgi-reseng@bristol.ac.uk](mailto:jgi-reseng@bristol.ac.uk).
+You can request access by contacting [jgi-reseng@bristol.ac.uk](mailto:jgi-reseng@bristol.ac.uk).
 Whilst at the University you can also access [additional education benefits](https://education.github.com/) on GitHub.
 
 ::: {.callout-note}

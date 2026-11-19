@@ -7,7 +7,7 @@ order: 70
 
 Useful for projects or interest groups, and can often be hosted for free on [GitHub Pages](https://pages.github.com/).
 
-Many frameworks are available -- we recommend:
+Many frameworks are available -- here are some selected details:
 
 - [Quarto](https://quarto.org/) (used by this website),
 - [Jupyter Book](https://jupyterbook.org/) (used by the [Our Handbook project](https://very-good-science.github.io/our-handbook/)),
