@@ -3,7 +3,7 @@ title: Scientific libraries and tools
 order: 30
 ---
 
-The following libraries and tools are recommended:
+This is a non-exhaustive list of some of the most popular libraries and tools which are made use of in general scientific research:
 
 ## Python
 

@@ -6,14 +6,14 @@ order: 40
 ::: {.callout-note}
 ## Can you use cloud services?
 
-Check whether you can use cloud services like GitHub and GitLab before you upload any code.
+For any project, you should always check whether using cloud services like GitHub and GitLab is suitable before you upload any code.
 
-This includes whether the repo needs to be private (at least to begin with) and what the licence terms need to be.
+It may be, for instance, that the terms of a project mean the repo needs to be private (at least to begin with) or you need to consider what the licence terms need to be.
 :::
 
 ## Git
 
-Use [Git](https://git-scm.com/) for version control to track and manage changes to code.
+[Git](https://git-scm.com/) can be used for version control to track and manage changes to code.
 
 ::: {.callout-tip}
 For collaborative work, committing frequently and following the principles of [trunk-based development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development) can help ensure this minimises code divergance.

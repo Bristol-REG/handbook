@@ -64,4 +64,4 @@ For example:
 - when coding, this might be undertaking code review or pair programming,
 - at the start of a project, this could be a team meeting to discuss ethical or governance issues, or the overall approach you are taking.
 
-Don't wait until the end of a project to do this! Again, keep a record of these steps.
+You shouldn't wait until the end of a project to do this! Again, keep a record of these steps.

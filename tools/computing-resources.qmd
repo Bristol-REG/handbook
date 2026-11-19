@@ -6,7 +6,7 @@ order: 10
 ::: {.callout-note}
 ## Which resources can you use?
 
-You must not transfer data onto personal devices or third party cloud services, unless it is publicly available, open source or you have appropriate permission.
+You should be careful with transferring data onto personal devices or third party cloud services, unless it is publicly available, open source or you have appropriate permission.
 :::
 
 ## Laptop

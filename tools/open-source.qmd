@@ -10,7 +10,7 @@ The University is in the process of producing an _Open Source Code_ policy.
 Once it is published, this page will be updated.
 :::
 
-Make all new source code open and reusable, and publish it under appropriate licences.
+Consider making all new source code open and reusable, and publishing it under appropriate licences.
 Or if this is not possible, provide a convincing explanation of why this cannot be done for specific subsets of the source code.
 
 ### Code that could be open
@@ -26,7 +26,7 @@ You _might_ be able to release the following:
 
 ### Code that should not be open
 
-You **must not** release code that:
+You **should not** release code that:
 
 - Contains personal or protected data (these should be stored separately),
 - Relates to sensitive research that has not been published yet or could compromise the proper publication of research results,
