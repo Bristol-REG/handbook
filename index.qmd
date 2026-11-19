@@ -11,4 +11,4 @@ This handbook aims to:
 - and commit us to producing **quality outputs** in a positive working environment.
 
 There are already many excellent resources both within the University and on the web, so this handbook gives a minimal overview of each area and signposts where to find out more.
-We give specific examples where we're adding something that isn't said elsewhere or where we're suggesting a common approach or 'house style' relevant to the team.
+Specific examples are often given where they're adding something which isn't said elsewhere or to provide something concrete to review. Almost all examples are recommendations or suggestions rather than known requirements for particular tools or good practice.
