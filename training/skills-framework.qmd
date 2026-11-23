@@ -1,0 +1,13 @@
+---
+title: Skills Framework
+order: 20
+listing:
+  template: ../_list.ejs
+  sort: order
+---
+
+## DIRECT framework
+
+The [Digital Research Competencies (DIRECT) Framework](https://directframework.com/) aims to classify and describe a wide range of technical and non-technical skills seen as useful for digital research roles. This is being built with and for the community to develop a shared language when recognising expertise. Resources are also provided within the framework alongside each skill.
+
+In addition to providing a set of shared skill definitions, by signing up you are able to self-evaluate your own skill levels against these definitions and to continue to evaluate this to track your own development.
