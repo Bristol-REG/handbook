@@ -3,6 +3,8 @@ title: Essential pathway
 order: 30
 ---
 
+## Pathway outline
+
 The essential pathway is recommended for everyone working on research technical professional (RTP) projects but can be particularly useful for new starters.
 
 From the [skills framework](skills-framework.qmd) used for this pathway, we have considered what skills could be minimal set of skills to develop and hone as a part of any Research Software Engineer (RSE) / Data Scientist / RTP project.
@@ -16,7 +18,20 @@ These are focussed on the following areas:
 
 From the skills framework the selected [skills and competencies](https://directframework.com/framework/skills_and_competencies/) are:
 
- - Stakeholder and user engagement
- - Task management
- - Code review
- - *Something specific to the technology stack on your project*
+ - [Software requirements](https://directframework.com/framework/skills/software-requirements/)
+ - [Task management](https://directframework.com/framework/skills/task-management/)
+ - [Code review](https://directframework.com/framework/skills/code-review/)
+ - Something specific to the technology stack on your project. See the [skills framework competencies](https://directframework.com/framework/skills_and_competencies/) for more details of potential options and resources.
+
+
+## Completing the pathway
+
+This pathway outlines the skills you're aiming to build and some initial resources to engage with to achieve this. For the first three skills, to complete the pathway you should review the resource(s) provided and consider how this can relate to the project you are working on / planning to work on. For all skills, it is recommended to note down your thoughts on these questions as well as a short outline on next steps.
+
+Reflect on the following:
+
+ - How is this relevant to my current / new project?
+ - Is this a new approach or is there any practice in this area I'm already undertaking / have undertaken previously which could map well here?
+
+For the final skill, you should review the options and choose something you would like to learn more about. As well as reviewing any current available resources, you should also spend a little time finding at least one new resource for yourself.
+
