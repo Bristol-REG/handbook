@@ -3,7 +3,7 @@ title: Managing environments
 order: 50
 ---
 
-It is often important for reproduciblity to keep track of the exact versions of the software libraries you are using.
+It is often important for reproducibility to keep track of the exact versions of the software libraries you are using.
 
 Generally this is done by creating a reproducible **environment** (also called a _virtual environment_).
 

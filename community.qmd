@@ -5,7 +5,7 @@ order: 40
 
 ## Join the Group
 
-The [Research Engineering Group (REG) web pages](https://bristol-reg.github.io/) contain key details about how to join and engage the community.
+The [Research Engineering Group (REG) web pages](https://bristol-reg.github.io/) contain key details about how to join and engage with the community.
 
 ## Mailing list and Slack channel
 

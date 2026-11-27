@@ -27,7 +27,7 @@ For documentation websites, [Sphinx](https://www.sphinx-doc.org/) is commonly us
 ## Tips
 
 - If you're creating an interactive website then it is recommended you think early on about how and where your website will be hosted, and who needs to have access to it.
-  It is possible to host public-facing websites by requesting a virtual machine (VM) from IT Services, however you will need to go through a [data protection impact assessment](https://www.bristol.ac.uk/secretary/data-protection/guidance/privacy-impact-assessment/) (DPIA) and penetration testing steps before your site can be used outside the University.
+  It is possible to host public-facing websites by requesting a virtual machine (VM) from IT Services; however, you will need to go through a [data protection impact assessment](https://www.bristol.ac.uk/secretary/data-protection/guidance/privacy-impact-assessment/) (DPIA) and penetration testing steps before your site can be used outside the University.
 - For more substantial websites, it is worth approaching [Research IT](https://www.bristol.ac.uk/research-it/) at the project costing stage.
   They develop websites and apps professionally and use similar tools.
 :::
