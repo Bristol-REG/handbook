@@ -5,7 +5,7 @@ order: 50
 
 ## SharePoint
 
-The [Research Engineering Group (REG) SharePoint](https://uob.sharepoint.com/teams/grp-ResearchEngineering/Shared Documents/Forms/All.aspx) contains key documents and resources related to REG, including details of meetings, presentations and reading group material. Access to the REG SharePoint can be granted if you have an opportunity to contribute to this shared resource.
+The [Research Engineering Group (REG) SharePoint](https://uob.sharepoint.com/teams/grp-ResearchEngineering/Shared%20Documents/Forms/All.aspx) contains key documents and resources related to REG, including details of meetings, presentations and reading group material. Access to the REG SharePoint can be granted if you have an opportunity to contribute to this shared resource.
 
 ## GitHub
 

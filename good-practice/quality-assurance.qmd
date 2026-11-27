@@ -17,4 +17,4 @@ This can be done by:
 - Peer review,
 - Code review,
 - Ethics discussions,
-- Pair programming,
+- Pair programming.

@@ -16,7 +16,7 @@ It may be, for instance, that the terms of a project mean the repo needs to be p
 [Git](https://git-scm.com/) can be used for version control to track and manage changes to code.
 
 ::: {.callout-tip}
-For collaborative work, committing frequently and following the principles of [trunk-based development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development) can help ensure this minimises code divergance.
+For collaborative work, committing frequently and following the principles of [trunk-based development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development) can help ensure this minimises code divergence.
 :::
 
 ## GitHub
